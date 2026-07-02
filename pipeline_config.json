@@ -1,0 +1,7 @@
+{
+  "events": "SAMPLE 2 - Estratto_eventi_ITA_2016_2026WK16.xlsx",
+  "observations": "Osservazioni_Agordo_cf09b6dda9dc4bfbb40d2fee5335bf5d.xlsx",
+  "output_dir": "artifacts",
+  "behavior_expert_ranks": "artifacts/behavior_family_expert_risk_rank.csv",
+  "behavior_taxonomy": "artifacts/behavior_taxonomy_pipeline_v2.csv"
+}
