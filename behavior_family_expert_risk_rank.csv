@@ -1,0 +1,12 @@
+comportamento_famiglia,risk_rank,risk_label,rationale
+Accessi / Scale / Lavori in quota,1,Molto alto,Default derivato dalla mediana del severity rank v2 osservato nella famiglia (`1`).
+Chimici / Aspirazione / Sostanze pericolose,1,Molto alto,Default derivato dalla mediana del severity rank v2 osservato nella famiglia (`1`).
+Elettrico / Emergenza / Vie di fuga,1,Molto alto,Default derivato dalla mediana del severity rank v2 osservato nella famiglia (`1`).
+Macchine / Organi mobili / Protezioni,1,Molto alto,Default derivato dalla mediana del severity rank v2 osservato nella famiglia (`1`).
+Attrezzature / Utensili / Dispositivi di presa,2,Alto,Default derivato dalla mediana del severity rank v2 osservato nella famiglia (`2`).
+DPI / Abbigliamento / Protezione personale,2,Alto,Default derivato dalla mediana del severity rank v2 osservato nella famiglia (`2`).
+Ergonomia / Movimentazione manuale,3,Medio,Default derivato dalla mediana del severity rank v2 osservato nella famiglia (`3`).
+Interferenze / Coordinamento,3,Medio,Interferenze operative tra persone o squadre con possibile perdita di controllo.
+Mezzi / Carrelli / Transpallet / Viabilità,3,Medio,Default derivato dalla mediana del severity rank v2 osservato nella famiglia (`3`).
+Stoccaggio / Materiali / Layout,3,Medio,Default derivato dalla mediana del severity rank v2 osservato nella famiglia (`3`).
+Ordine / Pulizia / Housekeeping,4,Basso,Default derivato dalla mediana del severity rank v2 osservato nella famiglia (`4`).
